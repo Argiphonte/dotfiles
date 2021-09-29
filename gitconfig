@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = t.barnouw@gmail.com
+	name = Thibault Barnouw-Mandouit
